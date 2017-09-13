@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CD</string>
+    <string name="hint_item">Item</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_submit">Submit</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Coins Diary</string>
+    <string name="text_accounts">All Details</string>
+</resources>
